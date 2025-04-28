@@ -88,7 +88,7 @@ SecurityEvent
 | Description                     | Screenshot Placeholder              |
 |---------------------------------|-------------------------------------|
 | Sentinel Dashboard              | ![null](images/soc-sentinel.png)    |
-| KQL Query Results               | ![null](images/soc-kql.png)         |
+| KQL Query Results               | ![null](KQL-Cover.png)         |
 | Simulated Attack Logs           | ![null](images/soc-attack.png)      |
 
 > Upload images to the `images/` folder and update the placeholders above.
