@@ -87,7 +87,7 @@ SecurityEvent
 
 | Description                     | Screenshot Placeholder              |
 |---------------------------------|-------------------------------------|
-| Sentinel Dashboard              | ![null](images/soc-sentinel.png)    |
+| Sentinel Dashboard              | ![null](Dashboard.png)    |
 | KQL Query Results               | ![null](KQL-Cover.png)         |
 | Simulated Attack Logs           | ![null](SimAttck.png)      |
 
