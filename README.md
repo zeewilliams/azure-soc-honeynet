@@ -1,6 +1,6 @@
 # ☁️ Simulated SOC & Honeynet – Azure Lab
 
-![null](images/soc-lab-cover.png) <!-- Replace with a cover image -->
+![null](siem-honey.png) <!-- Replace with a cover image -->
 
 ---
 
