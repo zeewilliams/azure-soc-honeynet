@@ -91,7 +91,6 @@ SecurityEvent
 | KQL Query Results               | ![null](KQL-Cover.png)         |
 | Simulated Attack Logs           | ![null](SimAttck.png)      |
 
-> Upload images to the `images/` folder and update the placeholders above.
 
 ---
 
